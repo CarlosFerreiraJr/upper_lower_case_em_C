@@ -1,5 +1,13 @@
 Funções de Conversão de String para maiúsculo e minúsculo em C
 
+### Bibliotecas
+```
+#include <stdio.h>
+#include <string.h>
+#include <stdlib.h>
+#include <ctype.h>
+```
+
 ### Converte caracteres de uma string para minusculas
 ```
 /**************************************************************************
